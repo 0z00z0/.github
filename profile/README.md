@@ -2,7 +2,7 @@
 
 <img src="logo.svg" width="128" height="128" alt="ZeroZero Software" />
 
-<h1>ZeroZerosoftware</h1>
+<h1>ZeroZero software</h1>
 
 <p><strong>Small tools. Zero bloat.</strong></p>
 
@@ -30,5 +30,5 @@ WinUI 3 &nbsp;·&nbsp; .NET 10 &nbsp;·&nbsp; C# &nbsp;·&nbsp; MIT
 ---
 
 <div align="center">
-<sub>© 2026 ZeroZerosoftware &nbsp;·&nbsp; <a href="https://0z0.xyz">0z0.xyz</a></sub>
+<sub>© 2026 ZeroZero software &nbsp;·&nbsp; <a href="https://0z0.xyz">0z0.xyz</a></sub>
 </div>
