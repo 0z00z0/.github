@@ -21,6 +21,7 @@ Indie software studio building precision Windows utilities for power users — n
 | Project | Description |
 |---|---|
 | [**LenovoPowerTray**](https://github.com/ezpl/LenovoPowerTray) | Smart Charge & Smart Standby tray app for ThinkPad — without Lenovo Vantage |
+| [**HyperVManagerTray**](https://github.com/ezpl/HyperVManagerTray) | Auto-switches Hyper-V VMs between virtual networks as the host moves between networks, with live dashboard and VM power controls |
 
 ## Stack
 
