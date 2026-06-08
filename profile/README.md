@@ -2,7 +2,7 @@
 
 <img src="logo.svg" width="128" height="128" alt="ZeroZero Software" />
 
-<h1>ZeroZero software</h1>
+<h1>ZeroZero Software</h1>
 
 <p><strong>Small tools. Zero bloat.</strong></p>
 
@@ -27,8 +27,15 @@ Indie software studio building precision Windows utilities for power users — n
 
 WinUI 3 &nbsp;·&nbsp; .NET 10 &nbsp;·&nbsp; C# &nbsp;·&nbsp; MIT
 
+## Install
+
+```powershell
+winget install 0z00z0.LenovoPowerTray
+winget install 0z00z0.HyperVManagerTray
+```
+
 ---
 
 <div align="center">
-<sub>© 2026 ZeroZero software &nbsp;·&nbsp; <a href="https://0z0.xyz">0z0.xyz</a></sub>
+<sub>© 2026 ZeroZero Software &nbsp;·&nbsp; <a href="https://0z0.xyz">0z0.xyz</a></sub>
 </div>
