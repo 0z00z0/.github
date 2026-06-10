@@ -9,6 +9,8 @@
 [![Website](https://img.shields.io/badge/0z0.xyz-visit-27e0c8?style=flat-square&labelColor=0a0f17)](https://0z0.xyz)
 &nbsp;
 [![License: MIT](https://img.shields.io/badge/license-MIT-3f5be0?style=flat-square&labelColor=0a0f17)](https://opensource.org/licenses/MIT)
+&nbsp;
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-5F7FFF?style=flat-square&logo=buy-me-a-coffee&logoColor=white&labelColor=0a0f17)](https://buymeacoffee.com/ezpl)
 
 </div>
 
