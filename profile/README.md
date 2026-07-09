@@ -22,8 +22,9 @@ Indie software studio building precision Windows utilities for power users — n
 
 | Project | Description |
 |---|---|
-| [**LenovoPowerTray**](https://github.com/0z00z0/LenovoPowerTray) | Smart Charge & Smart Standby tray app for ThinkPad — without Lenovo Vantage |
+| [**ChargeKeeper**](https://github.com/0z00z0/ChargeKeeper) | Keeps your laptop battery healthy — charge limits, live battery gauge and smart standby from the system tray. ThinkPads today, built for more hardware |
 | [**HyperVManagerTray**](https://github.com/0z00z0/HyperVManagerTray) | Auto-switches Hyper-V VMs between virtual networks as the host moves between networks, with live dashboard and VM power controls |
+| **M365Migrator** | Moves mail, contacts and calendar out of Microsoft 365 to privacy-friendly European services (Runbox, mailbox.org, Posteo, Nextcloud) — or any IMAP/CardDAV/CalDAV provider. Never changes anything in the source account |
 
 ## Stack
 
@@ -32,7 +33,7 @@ WinUI 3 &nbsp;·&nbsp; .NET 10 &nbsp;·&nbsp; C# &nbsp;·&nbsp; MIT
 ## Install
 
 ```powershell
-winget install 0z00z0.LenovoPowerTray
+winget install 0z00z0.ChargeKeeper
 winget install 0z00z0.HyperVManagerTray
 ```
 
