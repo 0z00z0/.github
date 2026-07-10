@@ -24,7 +24,7 @@ Indie software studio building precision Windows utilities for power users — n
 |---|---|
 | [**ChargeKeeper**](https://github.com/0z00z0/ChargeKeeper) | Keeps your laptop battery healthy — charge limits, live battery gauge and smart standby from the system tray. ThinkPads today, built for more hardware |
 | [**HyperVManagerTray**](https://github.com/0z00z0/HyperVManagerTray) | Auto-switches Hyper-V VMs between virtual networks as the host moves between networks, with live dashboard and VM power controls |
-| **M365Migrator** | Moves mail, contacts and calendar out of Microsoft 365 to privacy-friendly European services (Runbox, mailbox.org, Posteo, Nextcloud) — or any IMAP/CardDAV/CalDAV provider. Never changes anything in the source account |
+| [**M365Migrator**](https://github.com/0z00z0/M365Migrator) | Moves mail, contacts and calendar out of Microsoft 365 to privacy-friendly European services (Runbox, mailbox.org, Posteo, Nextcloud) — or any IMAP/CardDAV/CalDAV provider. Never changes anything in the source account |
 
 ## Stack
 
